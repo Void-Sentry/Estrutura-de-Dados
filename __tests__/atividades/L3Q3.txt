@@ -1,0 +1,47 @@
+/*import Lista from '../src/L3/L3Q3'
+
+let ls 
+
+beforeEach(() => {
+
+    ls = new Lista()
+
+})
+
+test('add', () => {
+    
+    ls.add('A')
+    ls.add('B')
+    ls.add('C')
+
+    expect(mergeTwoLists())
+
+})
+
+
+test('append', () => {
+    
+    ls.append('A')
+    ls.append('B')
+    ls.append('C')
+
+    
+
+})
+
+
+
+test('removeLast', () => {
+
+    ls.add(1)
+    ls.add(2)
+    ls.add(3)
+
+    ls.removeLast()
+    ls.removeFirst()
+
+
+    //ls.print()
+
+})
+*/
